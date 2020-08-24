@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://saqy.github.io/meri-rukhmee/static/css/main.4abbd375.chunk.css",
-    "main.js": "https://saqy.github.io/meri-rukhmee/static/js/main.06243481.chunk.js",
-    "main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/main.06243481.chunk.js.map",
+    "main.css": "https://saqy.github.io/meri-rukhmee/static/css/main.f8a0f302.chunk.css",
+    "main.js": "https://saqy.github.io/meri-rukhmee/static/js/main.f5ae7c55.chunk.js",
+    "main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/main.f5ae7c55.chunk.js.map",
     "runtime-main.js": "https://saqy.github.io/meri-rukhmee/static/js/runtime-main.a9ee1133.js",
     "runtime-main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/runtime-main.a9ee1133.js.map",
     "static/js/2.0ea8b9f3.chunk.js": "https://saqy.github.io/meri-rukhmee/static/js/2.0ea8b9f3.chunk.js",
     "static/js/2.0ea8b9f3.chunk.js.map": "https://saqy.github.io/meri-rukhmee/static/js/2.0ea8b9f3.chunk.js.map",
     "index.html": "https://saqy.github.io/meri-rukhmee/index.html",
-    "precache-manifest.0fa55744f698f4f7dc34f5d055dc1a0b.js": "https://saqy.github.io/meri-rukhmee/precache-manifest.0fa55744f698f4f7dc34f5d055dc1a0b.js",
+    "precache-manifest.f779d739638e862daff34f928855d709.js": "https://saqy.github.io/meri-rukhmee/precache-manifest.f779d739638e862daff34f928855d709.js",
     "service-worker.js": "https://saqy.github.io/meri-rukhmee/service-worker.js",
-    "static/css/main.4abbd375.chunk.css.map": "https://saqy.github.io/meri-rukhmee/static/css/main.4abbd375.chunk.css.map",
+    "static/css/main.f8a0f302.chunk.css.map": "https://saqy.github.io/meri-rukhmee/static/css/main.f8a0f302.chunk.css.map",
     "static/js/2.0ea8b9f3.chunk.js.LICENSE.txt": "https://saqy.github.io/meri-rukhmee/static/js/2.0ea8b9f3.chunk.js.LICENSE.txt",
     "static/media/App.css": "https://saqy.github.io/meri-rukhmee/static/media/bg.bf6cd02a.jpg",
     "static/media/logo.svg": "https://saqy.github.io/meri-rukhmee/static/media/logo.5d5d9eef.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.a9ee1133.js",
     "static/js/2.0ea8b9f3.chunk.js",
-    "static/css/main.4abbd375.chunk.css",
-    "static/js/main.06243481.chunk.js"
+    "static/css/main.f8a0f302.chunk.css",
+    "static/js/main.f5ae7c55.chunk.js"
   ]
 }
