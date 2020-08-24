@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "https://saqy.github.io/meri-rukhee/static/css/main.acea304a.chunk.css",
-    "main.js": "https://saqy.github.io/meri-rukhee/static/js/main.ee361526.chunk.js",
-    "main.js.map": "https://saqy.github.io/meri-rukhee/static/js/main.ee361526.chunk.js.map",
-    "runtime-main.js": "https://saqy.github.io/meri-rukhee/static/js/runtime-main.9ec8ddf3.js",
-    "runtime-main.js.map": "https://saqy.github.io/meri-rukhee/static/js/runtime-main.9ec8ddf3.js.map",
-    "static/js/2.0ea8b9f3.chunk.js": "https://saqy.github.io/meri-rukhee/static/js/2.0ea8b9f3.chunk.js",
-    "static/js/2.0ea8b9f3.chunk.js.map": "https://saqy.github.io/meri-rukhee/static/js/2.0ea8b9f3.chunk.js.map",
-    "index.html": "https://saqy.github.io/meri-rukhee/index.html",
-    "precache-manifest.f89dfa7be8dd1d678d8fcc3aff5265ec.js": "https://saqy.github.io/meri-rukhee/precache-manifest.f89dfa7be8dd1d678d8fcc3aff5265ec.js",
-    "service-worker.js": "https://saqy.github.io/meri-rukhee/service-worker.js",
-    "static/css/main.acea304a.chunk.css.map": "https://saqy.github.io/meri-rukhee/static/css/main.acea304a.chunk.css.map",
-    "static/js/2.0ea8b9f3.chunk.js.LICENSE.txt": "https://saqy.github.io/meri-rukhee/static/js/2.0ea8b9f3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "https://saqy.github.io/meri-rukhee/static/media/bg.bf6cd02a.jpg",
-    "static/media/logo.svg": "https://saqy.github.io/meri-rukhee/static/media/logo.5d5d9eef.svg"
+    "main.css": "https://saqy.github.io/meri-rukhmee/static/css/main.4abbd375.chunk.css",
+    "main.js": "https://saqy.github.io/meri-rukhmee/static/js/main.06243481.chunk.js",
+    "main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/main.06243481.chunk.js.map",
+    "runtime-main.js": "https://saqy.github.io/meri-rukhmee/static/js/runtime-main.a9ee1133.js",
+    "runtime-main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/runtime-main.a9ee1133.js.map",
+    "static/js/2.0ea8b9f3.chunk.js": "https://saqy.github.io/meri-rukhmee/static/js/2.0ea8b9f3.chunk.js",
+    "static/js/2.0ea8b9f3.chunk.js.map": "https://saqy.github.io/meri-rukhmee/static/js/2.0ea8b9f3.chunk.js.map",
+    "index.html": "https://saqy.github.io/meri-rukhmee/index.html",
+    "precache-manifest.0fa55744f698f4f7dc34f5d055dc1a0b.js": "https://saqy.github.io/meri-rukhmee/precache-manifest.0fa55744f698f4f7dc34f5d055dc1a0b.js",
+    "service-worker.js": "https://saqy.github.io/meri-rukhmee/service-worker.js",
+    "static/css/main.4abbd375.chunk.css.map": "https://saqy.github.io/meri-rukhmee/static/css/main.4abbd375.chunk.css.map",
+    "static/js/2.0ea8b9f3.chunk.js.LICENSE.txt": "https://saqy.github.io/meri-rukhmee/static/js/2.0ea8b9f3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "https://saqy.github.io/meri-rukhmee/static/media/bg.bf6cd02a.jpg",
+    "static/media/logo.svg": "https://saqy.github.io/meri-rukhmee/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ec8ddf3.js",
+    "static/js/runtime-main.a9ee1133.js",
     "static/js/2.0ea8b9f3.chunk.js",
-    "static/css/main.acea304a.chunk.css",
-    "static/js/main.ee361526.chunk.js"
+    "static/css/main.4abbd375.chunk.css",
+    "static/js/main.06243481.chunk.js"
   ]
 }
