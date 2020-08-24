@@ -1,0 +1,86 @@
+@import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+body {
+  text-align: center;
+  font-family: "Covered By Your Grace", cursive;
+  color: white;
+}
+
+#days {
+  font-size: 200px;
+  color: #fe828c;
+}
+@media only screen and (max-width: 600px) {
+  #days {
+    font-size: 160px;
+  }
+}
+#hours {
+  font-size: 150px;
+  color: #abcd58;
+}
+@media only screen and (max-width: 600px) {
+  #hours {
+    font-size: 110px;
+  }
+}
+#minutes {
+  font-size: 100px;
+  color: grey;
+}
+@media only screen and (max-width: 600px) {
+  #minutes {
+    font-size: 60px;
+  }
+}
+#seconds {
+  font-size: 50px;
+  color: #f6da74;
+}
+@media only screen and (max-width: 600px) {
+  #seconds {
+    font-size: 30px;
+  }
+}
+
+div {
+  display: inline-block;
+  line-height: 1;
+  font-size: 40px;
+}
+#timer div {
+  padding: 40px 60px;
+}
+
+span {
+  display: block;
+  font-size: 20px;
+  color: white;
+}
+
+.wrap {
+  position: relative;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  overflow-x: hidden;
+  max-width: 100%;
+  font-family: "Open Sans", sans-serif;
+  margin-top: 50px;
+}
+.slide {
+  position: relative;
+  transition: 0.3s all ease;
+  margin: 0 5px;
+  display: flex;
+}
+.slideLeft {
+  left: 0%;
+}
+.slideRight {
+  right: 0%;
+}
+.tag-line{
+    margin-top: 30px;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+}
