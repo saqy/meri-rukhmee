@@ -43,7 +43,6 @@ export function Timer(props) {
   };
 
   return (
-    <>
       <div id="timer">
         <div id="days">
           {" "}
@@ -59,19 +58,22 @@ export function Timer(props) {
         <div id="seconds">
           {timeValue.s} <span>Seconds</span>
         </div>
-      </div>
-      <div class="wrap">
-        <div class="slide slideLeft" style={{ left: `${progress}%` }}>
-        <Emoji name="hatching_chick" size="40"/> 
-        </div>
-        <div class="slide slideRight" style={{ right: `${progress}%` }}>
-        <Emoji name="panda_face" size="40"/> 
-        </div>
+        <div className="timer-ftr">
+        <div class="wrap">
+          <div class="slide slideLeft" style={{ left: `${progress}%` }}>
+          <Emoji name="hatching_chick" size="40"/> 
+          </div>
+          <div class="slide slideRight" style={{ right: `${progress}%` }}>
+          <Emoji name="panda_face" size="40"/> 
+          </div>
 
-       
+        
+        </div>
+        <span class="tag-line">You. You are my good days</span>
       </div>
-      <span class="tag-line">You. You are my good days</span>
-    </>
+      </div>
+      
+      
   );
 }
 

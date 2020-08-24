@@ -1,4 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Covered+By+Your+Grace);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
   text-align: center;
   font-family: "Covered By Your Grace", cursive;
@@ -9,37 +16,20 @@ body {
   font-size: 200px;
   color: #fe828c;
 }
-@media only screen and (max-width: 600px) {
-  #days {
-    font-size: 160px;
-  }
-}
+
 #hours {
   font-size: 150px;
   color: #abcd58;
 }
-@media only screen and (max-width: 600px) {
-  #hours {
-    font-size: 110px;
-  }
-}
+
 #minutes {
   font-size: 100px;
   color: grey;
 }
-@media only screen and (max-width: 600px) {
-  #minutes {
-    font-size: 60px;
-  }
-}
+
 #seconds {
   font-size: 50px;
   color: #f6da74;
-}
-@media only screen and (max-width: 600px) {
-  #seconds {
-    font-size: 30px;
-  }
 }
 
 div {
@@ -48,9 +38,25 @@ div {
   font-size: 40px;
 }
 #timer div {
-  padding: 40px 60px;
+  padding: 40px 20px;
 }
 
+#timer {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+#timer .timer-ftr {
+    position: fixed;
+    bottom: 5px;
+    left: 0;
+    width: 100%;
+    padding: 0;
+}
+#timer .timer-ftr div {
+    padding: 0;
+}
 span {
   display: block;
   font-size: 20px;
@@ -83,4 +89,33 @@ span {
     margin-top: 30px;
     font-size: 12px;
     font-family: 'Courier New', Courier, monospace;
+}
+#days, #seconds {
+    display: block;
+}
+#hours, #minutes {
+    display: inline-block;
+    vertical-align: bottom;
+    width: 50%;
+}
+
+@media only screen and (max-width: 600px) {
+    #seconds {
+        font-size: 30px;
+    }
+    #days {
+        font-size: 160px;
+    }
+    #hours {
+        font-size: 110px;
+    }
+    #minutes {
+        font-size: 60px;
+    }
+  }
+
+@media only screen and (max-width: 374px) {
+    #timer div {
+        padding: 12px 20px;
+      }
 }
