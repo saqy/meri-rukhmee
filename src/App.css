@@ -1,8 +1,11 @@
 
 
+
+
 body{
-  background-image: url('./bg.jpg') !important;
+  background-image: url('./bg-gif.gif') !important;
   background-size: cover !important;
+
 }
 
 @media only screen and (min-width: 572px) {
