@@ -5,6 +5,14 @@ body{
   background-size: cover !important;
 }
 
+@media only screen and (min-width: 572px) {
+  body {
+    background: black !important;
+    }
+}
+
+
+
 .App {
   text-align: center;
   /* background-image: url('./bg.jpg'); */
