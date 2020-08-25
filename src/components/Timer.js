@@ -9,21 +9,15 @@ export function Timer(props) {
   const [progress, setProgress] = useState("");
   useEffect(() => {
     const { initialTime } = props;
-    console.log("intialTime");
-    console.log(initialTime);
     let timeId = setInterval(() => {
       let intinal = new Date(initialTime).getTime();
       let currentTime = new Date().getTime();
 
       let distance = intinal - currentTime;
 
-      console.log("distance");
-      console.log(distance);
       const timeParts = getTimeParts(distance, "d");
       const timePartsSeconds = getTimeParts(distance, "s");
 
-      console.log("timePartsSeconds");
-      console.log(timePartsSeconds.s);
       const progress = normalize(timePartsSeconds.s, 0, 40, 0, 5953100);
       setProgress((40 - progress));
       setTimeValue(timeParts);
@@ -35,7 +29,6 @@ export function Timer(props) {
   }, []);
 
   const normalize = (unscaledNum, minAllowed, maxAllowed, min, max) => {
-    console.log("here");
     return (
       ((maxAllowed - minAllowed) * (unscaledNum - min)) / (max - min) +
       minAllowed
