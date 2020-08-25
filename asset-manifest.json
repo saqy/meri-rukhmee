@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "https://saqy.github.io/meri-rukhmee/static/css/main.84d2a088.chunk.css",
-    "main.js": "https://saqy.github.io/meri-rukhmee/static/js/main.f5ae7c55.chunk.js",
-    "main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/main.f5ae7c55.chunk.js.map",
+    "main.css": "https://saqy.github.io/meri-rukhmee/static/css/main.14bd7171.chunk.css",
+    "main.js": "https://saqy.github.io/meri-rukhmee/static/js/main.41406ea9.chunk.js",
+    "main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/main.41406ea9.chunk.js.map",
     "runtime-main.js": "https://saqy.github.io/meri-rukhmee/static/js/runtime-main.a9ee1133.js",
     "runtime-main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/runtime-main.a9ee1133.js.map",
-    "static/js/2.0ea8b9f3.chunk.js": "https://saqy.github.io/meri-rukhmee/static/js/2.0ea8b9f3.chunk.js",
-    "static/js/2.0ea8b9f3.chunk.js.map": "https://saqy.github.io/meri-rukhmee/static/js/2.0ea8b9f3.chunk.js.map",
+    "static/js/2.925282cb.chunk.js": "https://saqy.github.io/meri-rukhmee/static/js/2.925282cb.chunk.js",
+    "static/js/2.925282cb.chunk.js.map": "https://saqy.github.io/meri-rukhmee/static/js/2.925282cb.chunk.js.map",
     "index.html": "https://saqy.github.io/meri-rukhmee/index.html",
-    "precache-manifest.b4fef1976e29eb71aaa6f1344611bf9b.js": "https://saqy.github.io/meri-rukhmee/precache-manifest.b4fef1976e29eb71aaa6f1344611bf9b.js",
+    "precache-manifest.75f31b4fb83e764fe44c159ca018f5ee.js": "https://saqy.github.io/meri-rukhmee/precache-manifest.75f31b4fb83e764fe44c159ca018f5ee.js",
     "service-worker.js": "https://saqy.github.io/meri-rukhmee/service-worker.js",
-    "static/css/main.84d2a088.chunk.css.map": "https://saqy.github.io/meri-rukhmee/static/css/main.84d2a088.chunk.css.map",
-    "static/js/2.0ea8b9f3.chunk.js.LICENSE.txt": "https://saqy.github.io/meri-rukhmee/static/js/2.0ea8b9f3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "https://saqy.github.io/meri-rukhmee/static/media/bg-gif.ab77798b.gif",
-    "static/media/logo.svg": "https://saqy.github.io/meri-rukhmee/static/media/logo.5d5d9eef.svg"
+    "static/css/main.14bd7171.chunk.css.map": "https://saqy.github.io/meri-rukhmee/static/css/main.14bd7171.chunk.css.map",
+    "static/js/2.925282cb.chunk.js.LICENSE.txt": "https://saqy.github.io/meri-rukhmee/static/js/2.925282cb.chunk.js.LICENSE.txt",
+    "static/media/bg-gif.gif": "https://saqy.github.io/meri-rukhmee/static/media/bg-gif.ab77798b.gif",
+    "static/media/bg-rain.gif": "https://saqy.github.io/meri-rukhmee/static/media/bg-rain.b7b56eea.gif",
+    "static/media/bg.jpg": "https://saqy.github.io/meri-rukhmee/static/media/bg.bf6cd02a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a9ee1133.js",
-    "static/js/2.0ea8b9f3.chunk.js",
-    "static/css/main.84d2a088.chunk.css",
-    "static/js/main.f5ae7c55.chunk.js"
+    "static/js/2.925282cb.chunk.js",
+    "static/css/main.14bd7171.chunk.css",
+    "static/js/main.41406ea9.chunk.js"
   ]
 }
