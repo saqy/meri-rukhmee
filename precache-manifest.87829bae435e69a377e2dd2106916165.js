@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b56bb8b6e929367f8c66ad7a89441f5a",
+    "revision": "bb774d9cdc5f6f31c8aeb66fdaa443cb",
     "url": "https://saqy.github.io/meri-rukhmee/index.html"
   },
   {
-    "revision": "447df41b21146ae09b40",
-    "url": "https://saqy.github.io/meri-rukhmee/static/css/main.e1b33cd4.chunk.css"
+    "revision": "3777f87b0b46da6b1d31",
+    "url": "https://saqy.github.io/meri-rukhmee/static/css/main.45533ceb.chunk.css"
   },
   {
     "revision": "dbafd894ed3dbccb64d2",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://saqy.github.io/meri-rukhmee/static/js/2.925282cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "447df41b21146ae09b40",
+    "revision": "3777f87b0b46da6b1d31",
     "url": "https://saqy.github.io/meri-rukhmee/static/js/main.b1e207b8.chunk.js"
   },
   {
