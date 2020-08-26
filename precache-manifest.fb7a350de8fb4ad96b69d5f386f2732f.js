@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb774d9cdc5f6f31c8aeb66fdaa443cb",
+    "revision": "4d6449da149798f3a73c89367ff45a38",
     "url": "https://saqy.github.io/meri-rukhmee/index.html"
   },
   {
-    "revision": "3777f87b0b46da6b1d31",
+    "revision": "e50fe27a29fdd50dfd0d",
     "url": "https://saqy.github.io/meri-rukhmee/static/css/main.45533ceb.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://saqy.github.io/meri-rukhmee/static/js/2.925282cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3777f87b0b46da6b1d31",
-    "url": "https://saqy.github.io/meri-rukhmee/static/js/main.b1e207b8.chunk.js"
+    "revision": "e50fe27a29fdd50dfd0d",
+    "url": "https://saqy.github.io/meri-rukhmee/static/js/main.eec5700d.chunk.js"
   },
   {
     "revision": "4dfd3ba6a19ffd1c0662",
     "url": "https://saqy.github.io/meri-rukhmee/static/js/runtime-main.a9ee1133.js"
   },
   {
-    "revision": "4ef52fbe10741cc77ea249b9a79f7a1c",
-    "url": "https://saqy.github.io/meri-rukhmee/static/media/bg-gif.4ef52fbe.gif"
+    "revision": "65123edcb665e3e615006fa92eec7e53",
+    "url": "https://saqy.github.io/meri-rukhmee/static/media/bg-gif.65123edc.gif"
   },
   {
     "revision": "f706c6139daea45ae923b40cbc923594",

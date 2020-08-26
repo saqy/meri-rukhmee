@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "https://saqy.github.io/meri-rukhmee/static/css/main.45533ceb.chunk.css",
-    "main.js": "https://saqy.github.io/meri-rukhmee/static/js/main.b1e207b8.chunk.js",
-    "main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/main.b1e207b8.chunk.js.map",
+    "main.js": "https://saqy.github.io/meri-rukhmee/static/js/main.eec5700d.chunk.js",
+    "main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/main.eec5700d.chunk.js.map",
     "runtime-main.js": "https://saqy.github.io/meri-rukhmee/static/js/runtime-main.a9ee1133.js",
     "runtime-main.js.map": "https://saqy.github.io/meri-rukhmee/static/js/runtime-main.a9ee1133.js.map",
     "static/js/2.925282cb.chunk.js": "https://saqy.github.io/meri-rukhmee/static/js/2.925282cb.chunk.js",
     "static/js/2.925282cb.chunk.js.map": "https://saqy.github.io/meri-rukhmee/static/js/2.925282cb.chunk.js.map",
     "index.html": "https://saqy.github.io/meri-rukhmee/index.html",
-    "precache-manifest.87829bae435e69a377e2dd2106916165.js": "https://saqy.github.io/meri-rukhmee/precache-manifest.87829bae435e69a377e2dd2106916165.js",
+    "precache-manifest.fb7a350de8fb4ad96b69d5f386f2732f.js": "https://saqy.github.io/meri-rukhmee/precache-manifest.fb7a350de8fb4ad96b69d5f386f2732f.js",
     "service-worker.js": "https://saqy.github.io/meri-rukhmee/service-worker.js",
     "static/css/main.45533ceb.chunk.css.map": "https://saqy.github.io/meri-rukhmee/static/css/main.45533ceb.chunk.css.map",
     "static/js/2.925282cb.chunk.js.LICENSE.txt": "https://saqy.github.io/meri-rukhmee/static/js/2.925282cb.chunk.js.LICENSE.txt",
-    "static/media/bg-gif.gif": "https://saqy.github.io/meri-rukhmee/static/media/bg-gif.4ef52fbe.gif",
+    "static/media/bg-gif.gif": "https://saqy.github.io/meri-rukhmee/static/media/bg-gif.65123edc.gif",
     "static/media/bg-rain.gif": "https://saqy.github.io/meri-rukhmee/static/media/bg-rain.f706c613.gif",
     "static/media/bg.jpg": "https://saqy.github.io/meri-rukhmee/static/media/bg.bf6cd02a.jpg"
   },
@@ -20,6 +20,6 @@
     "static/js/runtime-main.a9ee1133.js",
     "static/js/2.925282cb.chunk.js",
     "static/css/main.45533ceb.chunk.css",
-    "static/js/main.b1e207b8.chunk.js"
+    "static/js/main.eec5700d.chunk.js"
   ]
 }
