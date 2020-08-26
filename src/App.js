@@ -10,7 +10,7 @@ import bgRain from "./bg-rain.gif";
 function App() {
 const [currentWeather, setCurrentWeather] = useState('');
   useEffect(() => {
-    fetch("https://community-open-weather-map.p.rapidapi.com/weather?q=Peterborough,uk", {
+    fetch("https://community-open-weather-map.p.rapidapi.com/weather?q=Crowland,uk", {
       "method": "GET",
       "headers": {
         "x-rapidapi-host": "community-open-weather-map.p.rapidapi.com",
