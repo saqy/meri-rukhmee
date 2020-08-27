@@ -4,7 +4,6 @@ import "./App.css";
 import { Timer } from "./components/Timer";
 
 import bgGif from "./bg-gif.gif";
-import bgImage from "./bg.jpg";
 import bgRain from "./bg-rain.gif";
 
 function App() {
