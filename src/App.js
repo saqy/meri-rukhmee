@@ -21,7 +21,6 @@ const [currentWeather, setCurrentWeather] = useState('');
     
     })
     .then(response=>{
-      console.log(response);
       if (response.weather){
         setCurrentWeather(response.weather[0].main);
       }
