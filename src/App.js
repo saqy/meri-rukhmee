@@ -30,7 +30,7 @@ const [currentWeather, setCurrentWeather] = useState('');
     });
   });
   return (
-    <div className="app" style={{backgroundImage:currentWeather==='Rain'?  `url(${bgGif})`:  `url(${bgGif})`}}>
+    <div className="app" style={{backgroundImage: `url(${bgGif})`}}>
       <Timer initialTime={new Date("2021-01-13T07:30:00.000Z")} />
     </div>
   );
